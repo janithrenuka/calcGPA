@@ -267,7 +267,7 @@ const Dashboard = () => {
                             id="subject_code" 
                             label="Subject Code" 
                             onChange = {e => onChange(e)}
-                            //defaultValue="SCSxxxx"
+                            defaultValue="SCS"
                             placeholder="SCSxxx"
                         />
 
